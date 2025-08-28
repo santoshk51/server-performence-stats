@@ -3,7 +3,7 @@
 A simple Bash script (`server-stats.sh`) to analyze basic server performance statistics on any Linux machine.  
 This project helps beginners practice Linux shell scripting while learning how to monitor system health.
 
-🔗 **Project URL:** [https://github.com/santoshk51/server-performence-stats](https://github.com/santoshk51/server-performence-stats)
+🔗 **Project URL:** [https://github.com/santoshk51/server-performence-stats](https://roadmap.sh/projects/server-stats)
 
 ---
 
